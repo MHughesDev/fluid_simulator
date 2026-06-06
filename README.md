@@ -1,4 +1,4 @@
-<video src="demo.mp4" controls width="100%"></video>
+![Fluid Simulator Demo](demo.gif)
 
 # Real-Time Fluid Simulator
 
